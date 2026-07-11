@@ -4,3 +4,4 @@ i'm learning python and my first project to strong my language is calculator and
 from sheriyans coding school
 This is an base for my future skill set which is Data Science using Python
 its an step or i can say my first step towards DataScience by python
+python Data Science is an good option to learn as it opens very good options for my career
